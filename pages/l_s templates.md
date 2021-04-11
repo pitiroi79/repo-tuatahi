@@ -9,4 +9,5 @@ title: l_s templates
 ### Author:
 ### Themes:
 ### Tags:
-###
+### Key Takeaways:
+### Related Books:
