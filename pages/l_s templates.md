@@ -11,3 +11,9 @@ title: l_s templates
 ### Tags:
 ### Key Takeaways:
 ### Related Books:
+## Metadata
+### Author:
+### Themes:
+### Tags:
+### Key Takeaways:
+### Related Books:
