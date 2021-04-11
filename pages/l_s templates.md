@@ -4,7 +4,7 @@ title: l_s templates
 
 ## Book Notes
 :PROPERTIES:
-:template: Book Notes
+:template: MetaData
 :END:
 ### Author:
 ### Themes:
@@ -13,7 +13,3 @@ title: l_s templates
 ### Related Books:
 ## Book Notes
 ### Author:
-### Themes:
-### Tags:
-### Key Takeaways:
-### Related Books:
