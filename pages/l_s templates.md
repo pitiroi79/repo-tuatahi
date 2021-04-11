@@ -11,5 +11,3 @@ title: l_s templates
 ### Tags:
 ### Key Takeaways:
 ### Related Books:
-## Book Notes
-### Author:
