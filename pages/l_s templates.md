@@ -4,7 +4,7 @@ title: l_s templates
 
 ## Metadata
 :PROPERTIES:
-:template: MetaData
+:template: Book Notes
 :END:
 ### Author:
 ### Themes:
