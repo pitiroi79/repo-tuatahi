@@ -6,3 +6,7 @@ title: l_s templates
 :PROPERTIES:
 :template: Book Notes
 :END:
+### Author:
+### Themes:
+### Tags:
+###
