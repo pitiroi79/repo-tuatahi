@@ -3,9 +3,6 @@ title: l_s templates
 ---
 
 ## Metadata
-:PROPERTIES:
-:template: Book Notes
-:END:
 ### Author:
 ### Themes:
 ### Tags:
