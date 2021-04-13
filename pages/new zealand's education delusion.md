@@ -4,7 +4,8 @@ title: New Zealand's Education Delusion
 
 ## Author: [[Briar Lipson]] 
 Themes: Education
-Tags: #education,
+Tags: #education, #literature-notes,
+##
 ##
 ## Key Takeaways:
 Related Books:
