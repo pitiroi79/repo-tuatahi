@@ -9,5 +9,3 @@ title: New Zealand's Education Delusion
 Tags: #education, #literature-notes, #book-summaries
 ## Key Takeaways:
 Related Books:
-## Key Takeaways:
-Related Books:
