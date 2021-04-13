@@ -2,6 +2,7 @@
 title: New Zealand's Education Delusion
 ---
 
+## Metadata
 ## Author: [[Briar Lipson]]
 ## Source:
 ## Themes: Education
