@@ -2,8 +2,7 @@
 title: Introduction to Logic
 ---
 
-## CATEGORICAL SYLLOGISMS
-1. No baby is tall. Many babies are not healthy. Therefore, those who are healthy are tall.
+## CATEGORICAL SYLLOGISMS 1. No baby is tall. Many babies are not healthy. The refore, those who are healthy are tall.
 2. All materialists are atheists. All communists are atheists. So all materialists are communists.
 3. All dictators use propaganda. No mathematician uses propaganda. Hence, no mathematician is a dictator.
 4. Since all intelligent men are creative, and all who are creative hold patents, it follows that all who hold patents are intelligent.
