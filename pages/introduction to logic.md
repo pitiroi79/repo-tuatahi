@@ -11,7 +11,7 @@ title: Introduction to Logic
 ### 6. Some attractive people are not lacking in energy, and all unpopular people are unattractive. Thus, some energetic people are popular.
 ### 7. People who deceive themselves are not students of logic. My proof of this is that most self- deceivers rationalize a great deal, and logic students never rationalize.
 ### 8. Samuel Johnson, Life of Cowley: “Because the father of poetry was right in denominating poetry . . . an imitative art, these [metaphysical poets] will, without great wrong, lose their right to the name of poets . . . for they copied neither nature nor life.”
-9. Whatever is endorsed by science is objectively real. ESP, therefore, is obviously unreal, since it has no scientific credentials at all.
-10. Those who eat a lot, gain weight; those who eat little, suffer; hence, those who gain weight do not suffer.
-11. Everyone except for ecologists is concerned about the energy crisis. So Professor Smith, an avid ecologist, is not concerned about it.
-12. Only chronic liars meet nothing but failure in life. And we know that all chronic liars are unintelligent. It follows that none of the people who meet only failure in life are intelligent
+### 9. Whatever is endorsed by science is objectively real. ESP, therefore, is obviously unreal, since it has no scientific credentials at all.
+### 10. Those who eat a lot, gain weight; those who eat little, suffer; hence, those who gain weight do not suffer.
+### 11. Everyone except for ecologists is concerned about the energy crisis. So Professor Smith, an avid ecologist, is not concerned about it.
+### 12. Only chronic liars meet nothing but failure in life. And we know that all chronic liars are unintelligent. It follows that none of the people who meet only failure in life are intelligent
