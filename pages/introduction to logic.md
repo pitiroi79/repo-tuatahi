@@ -2,10 +2,12 @@
 title: Introduction to Logic
 ---
 
+##
 ## Homework
 ### Informal Fallacies
 ### Hypothetical and Alternative Arguments
-### CATEGORICAL SYLLOGISMS
+### Immediate Inference
+### Categorical Syllogisms
 #### 1. No baby is tall. Many babies are not healthy. The refore, those who are healthy are tall.
 #### 2. All materialists are atheists. All communists are atheists. So all materialists are communists.
 #### 3. All dictators use propaganda. No mathematician uses propaganda. Hence, no mathematician is a dictator.
