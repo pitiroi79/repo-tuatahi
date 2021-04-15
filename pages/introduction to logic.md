@@ -4,7 +4,7 @@ title: Introduction to Logic
 
 ## Homework
 ### Informal Fallacies
-###
+### Hypothetical and Alternative Arguments
 ### CATEGORICAL SYLLOGISMS
 #### 1. No baby is tall. Many babies are not healthy. The refore, those who are healthy are tall.
 #### 2. All materialists are atheists. All communists are atheists. So all materialists are communists.
