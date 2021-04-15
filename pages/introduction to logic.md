@@ -8,7 +8,7 @@ title: Introduction to Logic
 ### Lecture 3
 ### Lecture 4
 ### Lecture 5
-### Lecture 6
+###
 ## Homework
 ### Informal Fallacies
 ### Hypothetical and Alternative Arguments
