@@ -99,6 +99,7 @@ Book reviews:
 :PROPERTIES:
 :template: meeting notes
 :END:
+### ##date
 ### #topic
 ### #participants
 ### [[important points]]
