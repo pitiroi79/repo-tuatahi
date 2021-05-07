@@ -1,2 +1,2 @@
-## [[alial:carbs]]
+## [[alias:carbs]]
 ##
