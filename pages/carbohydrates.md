@@ -2,3 +2,4 @@
 title: Carbohydrates
 ---
 
+## [[alias:Carbohydrate]]
