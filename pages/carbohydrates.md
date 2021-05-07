@@ -1,6 +1,5 @@
 ---
 title: Carbohydrates
 ---
-
-## [[alias:Carbohydrate]]
-##
+alias: Carbohydrate, Carbs, carbs
+---
