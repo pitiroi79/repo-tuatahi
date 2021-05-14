@@ -3,7 +3,7 @@ title: Fitness
 ---
 
 ## #kettlebell
-###
+### 25 min amrap
 ### 50 KB Swings
 200m KB Carry
  50 KB Thrusters
