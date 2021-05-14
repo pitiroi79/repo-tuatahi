@@ -2,7 +2,8 @@
 title: Fitness
 ---
 
-## 25min AMRAP - #kettlebell
+## #kettlebell
+###
 ### 50 KB Swings
 200m KB Carry
  50 KB Thrusters
@@ -22,4 +23,5 @@ title: Fitness
 10 KB SDHP 
 50m KB Carry
 ### In Remainder of time max effort KB Get Up to Burpee :-)
+##
 ##
