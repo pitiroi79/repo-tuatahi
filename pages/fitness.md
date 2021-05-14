@@ -2,7 +2,7 @@
 title: Fitness
 ---
 
-## 25min AMRAP
+## 25min AMRAP - #kettlebell
 ### 50 KB Swings
 200m KB Carry
  50 KB Thrusters
